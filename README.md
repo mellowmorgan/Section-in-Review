@@ -17,7 +17,7 @@ A website summarizing what we've learned at Epicodus in sections.
 
 - Clone this repository to your desktop
 - Navigate to the top level of the directory
-- Open index.html in your browser
+- type open index.html hit enter and it will open webpage in your browser.
 
 ## Known Bugs
 
